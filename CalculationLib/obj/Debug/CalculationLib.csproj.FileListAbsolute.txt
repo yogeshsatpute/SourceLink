@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\CalculationLib\CalculationLib\bin\Debug\CalculationLib.dll
+C:\Users\Administrator\source\repos\CalculationLib\CalculationLib\bin\Debug\CalculationLib.pdb
+C:\Users\Administrator\source\repos\CalculationLib\CalculationLib\obj\Debug\CalculationLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CalculationLib\CalculationLib\obj\Debug\CalculationLib.dll
+C:\Users\Administrator\source\repos\CalculationLib\CalculationLib\obj\Debug\CalculationLib.pdb
+C:\Users\Administrator\source\repos\CalculationLib\CalculationLib\obj\Debug\CalculationLib.csprojAssemblyReference.cache
+D:\SourceLink\Test1\CalculationLib\CalculationLib\bin\Debug\CalculationLib.dll
+D:\SourceLink\Test1\CalculationLib\CalculationLib\bin\Debug\CalculationLib.pdb
+D:\SourceLink\Test1\CalculationLib\CalculationLib\obj\Debug\CalculationLib.csproj.CoreCompileInputs.cache
+D:\SourceLink\Test1\CalculationLib\CalculationLib\obj\Debug\CalculationLib.sourcelink.json
+D:\SourceLink\Test1\CalculationLib\CalculationLib\obj\Debug\CalculationLib.dll
+D:\SourceLink\Test1\CalculationLib\CalculationLib\obj\Debug\CalculationLib.pdb
+D:\SourceLink\Test1\CalculationLib\CalculationLib\obj\Debug\CalculationLib.csprojAssemblyReference.cache
